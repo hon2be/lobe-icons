@@ -2,6 +2,31 @@
 
 # Changelog
 
+## [Version 2.12.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-rn@2.11.0...@lobehub/icons-rn@2.12.0)
+
+<sup>Released on **2026-07-24**</sup>
+
+#### ✨ Features
+
+- **misc**: Add ChatGPT provider icon mapping.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add ChatGPT provider icon mapping ([f08950e](https://github.com/lobehub/lobe-icons/commit/f08950e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 2.11.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-rn@2.10.0...@lobehub/icons-rn@2.11.0)
 
 <sup>Released on **2026-07-14**</sup>
