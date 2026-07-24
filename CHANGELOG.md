@@ -2,6 +2,33 @@
 
 # Changelog
 
+## [Version 5.15.0](https://github.com/lobehub/lobe-icons/compare/v5.14.0...v5.15.0)
+
+<sup>Released on **2026-07-24**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+- **misc**: Add ChatGPT provider icon mapping.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([e7714cb](https://github.com/lobehub/lobe-icons/commit/e7714cb))
+- **misc**: Add ChatGPT provider icon mapping ([f08950e](https://github.com/lobehub/lobe-icons/commit/f08950e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 5.14.0](https://github.com/lobehub/lobe-icons/compare/v5.13.0...v5.14.0)
 
 <sup>Released on **2026-07-17**</sup>
