@@ -269,7 +269,7 @@ export const providerMappings: ProviderMapping[] = [
     keywords: [ModelProvider.Moonshot, ModelProvider.KimiCodingPlan],
   },
   { Icon: Novita, keywords: [ModelProvider.Novita] },
-  { Icon: OpenAI, keywords: [ModelProvider.OpenAI] },
+  { Icon: OpenAI, keywords: [ModelProvider.ChatGPT, ModelProvider.OpenAI] },
   {
     Icon: OpenCode,
     keywords: [
