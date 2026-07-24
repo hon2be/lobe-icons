@@ -30,6 +30,7 @@ export enum ModelProvider {
   ByteDance = 'bytedance',
   CentML = 'centml',
   Cerebras = 'cerebras',
+  ChatGPT = 'chatgpt',
   Civitai = 'civitai',
   Claude = 'claude',
   Cloudflare = 'cloudflare',

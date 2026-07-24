@@ -265,7 +265,7 @@ export const rnProviderMappings: RNProviderMapping[] = [
     keywords: [RNModelProvider.Moonshot, RNModelProvider.KimiCodingPlan],
   },
   { Icon: Novita, keywords: [RNModelProvider.Novita] },
-  { Icon: OpenAI, keywords: [RNModelProvider.OpenAI] },
+  { Icon: OpenAI, keywords: [RNModelProvider.ChatGPT, RNModelProvider.OpenAI] },
   {
     Icon: OpenCode,
     keywords: [
